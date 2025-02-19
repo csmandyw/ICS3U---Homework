@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class NANDGate {
     public static void main(String[] args) throws Exception {
         Scanner keyboard = new Scanner(System.in);
-        boolean a, b, c = false;
 
         System.out.println("Please enter your a value [true/false]");
         a = keyboard.nextBoolean();
