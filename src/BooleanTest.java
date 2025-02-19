@@ -7,11 +7,11 @@ public class BooleanTest {
        
         System.out.println("Please enter an A value");
         boolean A = keyboard.nextBoolean();
-        System.out.println("Please enter an B value");
+        System.out.println("Please enter a B value");
         boolean B = keyboard.nextBoolean();
-        System.out.println("Please enter an C value");
+        System.out.println("Please enter a C value");
         boolean C = keyboard.nextBoolean();
-        System.out.println("Please enter an D value");
+        System.out.println("Please enter a D value");
         boolean D = keyboard.nextBoolean();
         keyboard.close();
 
