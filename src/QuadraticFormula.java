@@ -1,4 +1,4 @@
-//Quadratic Formula (Feb.10.2025)
+// Quadratic Formula (Feb.10.2025)
 import java.util.Scanner;
 
 public class QuadraticFormula {
