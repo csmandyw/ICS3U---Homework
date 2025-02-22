@@ -1,4 +1,4 @@
-//Sine Law (Feb.11.2025)
+// Sine Law (Feb.11.2025)
 import java.util.Scanner;
 
 public class SineLaw {
