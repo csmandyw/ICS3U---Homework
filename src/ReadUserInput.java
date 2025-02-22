@@ -1,4 +1,4 @@
-//Decimal To Integer (Feb.7.2025)
+// Decimal To Integer (Feb.7.2025)
 import java.util.Scanner;
 
 public class ReadUserInput {
