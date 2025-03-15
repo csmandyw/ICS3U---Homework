@@ -1,4 +1,4 @@
-// Polynomial Fucntion With Arrays (Mar.5.2025)
+// Polynomial Function With Arrays (Mar.5.2025)
 import java.util.Scanner;
 
 public class PolynomialFunction {
